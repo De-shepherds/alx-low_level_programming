@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * flip_bits - Counts the number of bits to flip to get from n to m.
+ * Flip_bits - Counts the number of bits to flip to get from n to m.
  * @n: The first unsigned long integer.
  * @m: The second unsigned long integer.
  *
